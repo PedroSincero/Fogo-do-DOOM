@@ -15,7 +15,7 @@ Neste Projeto Aprendi como estruturar o algoritmo que cria um efeito de fogo pix
 * Adicionar Botão para Mudar a palleta de Cores
 ## Agradecimentos
 
-Agradecimentos ao canal Filipe Deschamps, pois este projeto foi muito divertido e simples de elabora-lo ^^ .
+Agradecimentos ao canal Filipe Deschamps, pois este projeto foi muito divertido de elabora-lo ^^ .
 
 * https://github.com/filipedeschamps/doom-fire-algorithm
 
