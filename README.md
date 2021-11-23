@@ -6,7 +6,7 @@ Boas Vindas ao meu Projetinho pessoal do Fogo do Doom, nele você verá algumas 
 
 ## Lições aprendidas
 
-Neste Projeto Aprendi como estruturar o algoritmo que cria um efeito de fogo, semelhantes ao jogo DOOM.
+Neste Projeto Aprendi como estruturar o algoritmo que cria um efeito de fogo, semelhante ao jogo DOOM.
 
 ## Melhorias para o Futuro
 
