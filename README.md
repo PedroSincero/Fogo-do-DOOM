@@ -1,6 +1,8 @@
 
 # Projeto - Fogo do Doom
-<img src="https://cdn.discordapp.com/attachments/868183044148834317/912528716192698368/2.gif" alt="GIF" height="500px"/>
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/868183044148834317/912528716192698368/2.gif"  alt="GIF" height="500px" />
+</div>
 Boas Vindas ao meu Projetinho pessoal do Fogo do Doom, nele você verá algumas funcionalidades utilizadas para criar aquele fogo pixelado em sua tela ;).
 
 
